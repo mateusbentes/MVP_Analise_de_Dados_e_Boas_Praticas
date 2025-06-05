@@ -2,4 +2,4 @@
 
 Dataset na pasta dataset
 
-Dataset espelho de https://huggingface.co/datasets/withalim/bluesky-posts modificado
+Dataset espelho de https://huggingface.co/datasets/alpindale/two-million-bluesky-posts
